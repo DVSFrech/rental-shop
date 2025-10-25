@@ -1,0 +1,34 @@
+[
+  {
+    "id": "slushmaschine",
+    "name": "Slushmaschine (2x12 Liter) inkl. Kiste",
+    "category": "Getränke & Kühlung",
+    "pricePerDay": 79,
+    "deposit": 100,
+    "image": "/products/slushmaschine.jpg"
+  },
+  {
+    "id": "popcornmaschine",
+    "name": "Popcornmaschine inkl. Zubehör",
+    "category": "Snacks & Food",
+    "pricePerDay": 49,
+    "deposit": 50,
+    "image": "/products/popcornmaschine.jpg"
+  },
+  {
+    "id": "huepfburg-dschungel",
+    "name": "Hüpfburg Dschungel mit Rutsche",
+    "category": "Event & Spaß",
+    "pricePerDay": 129,
+    "deposit": 150,
+    "image": "/products/huepfburg-dschungel.jpg"
+  },
+  {
+    "id": "huepfburg-einhorn",
+    "name": "Hüpfburg Einhorn mit Rutsche",
+    "category": "Event & Spaß",
+    "pricePerDay": 129,
+    "deposit": 150,
+    "image": "/products/huepfburg-einhorn.jpg"
+  }
+]
